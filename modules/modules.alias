@@ -154,8 +154,6 @@ alias of:N*T*Cqcom,monaco-adsp-pas qcom_q6v5_pas
 alias of:N*T*Cqcom,monaco-adsp-pasC* qcom_q6v5_pas
 alias of:N*T*Cqcom,monaco-modem-pas qcom_q6v5_pas
 alias of:N*T*Cqcom,monaco-modem-pasC* qcom_q6v5_pas
-alias of:N*T*Cqcom,lemans-adsp-pas qcom_q6v5_pas
-alias of:N*T*Cqcom,lemans-adsp-pasC* qcom_q6v5_pas
 alias platform:spi_geni spi_msm_geni
 alias platform:swr-mstr swr_ctrl_dlkm
 alias amba:d???BB961 coresight_tmc
